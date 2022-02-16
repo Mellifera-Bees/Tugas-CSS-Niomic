@@ -1,7 +1,7 @@
 # Tugas-CSS-Niomic
 
-CSS
-- Tugas 1 - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
+##CSS
+- [Tugas 1] (https://www.tutorialcup.com/id/git/membuat-file-readme.htm) - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
 - Tugas 2 - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
 - Tugas 3 - Color, Font-Size, Font-Weight, Font-Family.
 - Tugas 4 - Font-Size, Color, !important.
