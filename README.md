@@ -1,4 +1,4 @@
-# Tugsa-CSS-Niomic
+# Tugas-CSS-Niomic
 
 CSS
 - Tugas 1 - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
