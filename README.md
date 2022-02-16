@@ -1,2 +1,35 @@
 # Tugsa-CSS-Niomic
-Tugas 1 CSS - Komentar, Media Type, Inline CSS, Internal CSS, External CSS. Tugas 2 CSS - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector. Tugas 3 CSS - Color, Font-Size, Font-Weight, Font-Family. Tugas 4 CSS - Font-Size, Color, !important. Tugas 5 CSS - Text Align, Text Transform. Tugas 6 CSS - Overflow, Border, Padding. Tugas 7 CSS - Background. Tugas 8 CSS - Background. Tugas 9 CSS - Z-Index, Float, Position. Tugas 10 CSS - Gradient. Tugas 11 CSS - Column. Tugas 12 CSS - Column Count. Tugas 13 CSS - Border Image. Tugas 14 CSS - Flexbox. Tugas 15 CSS - Flexbox. Tugas 16 CSS - Flexbox. Tugas 17 CSS - Flexbox. Tugas 18 CSS - Flexbox. Tugas 19 CSS - Flexbox. Tugas 20 CSS - Flexbox. Tugas 21 CSS - Penggunaan Bootstrap (Local dan CDN). Tugas 22 CSS - Bootstrap Typography. Tugas 23 CSS Tugas 24 CSS Tugas 25 CSS Tugas 26 CSS - Bootstrap Images. Tugas 27 CSS - Bootstrap Grid. Tugas 28 CSS Tugas 29 CSS - Semantic UI. Tugas 30 CSS - Materialize CSS. Studi Kasus CSS - Halaman Website Study Kasus. Tugas Akhir CSS
+
+CSS
+- Tugas 1 - Komentar, Media Type, Inline CSS, Internal CSS, External CSS.
+- Tugas 2 - Universal Selector, Element Selector, Class Selector, ID Selector, Group Selector, Spesific Selector.
+- Tugas 3 - Color, Font-Size, Font-Weight, Font-Family.
+- Tugas 4 - Font-Size, Color, !important.
+- Tugas 5 - Text Align, Text Transform.
+- Tugas 6 - Overflow, Border, Padding.
+- Tugas 7 - Background.
+- Tugas 8 - Background.
+- Tugas 9 - Z-Index, Float, Position.
+- Tugas 10 - Gradient.
+- Tugas 11 - Column.
+- Tugas 12 - Column Count. 
+- Tugas 13 - Border Image. 
+- Tugas 14 - Flexbox. 
+- Tugas 15 - Flexbox.
+- Tugas 16 - Flexbox. 
+- Tugas 17 - Flexbox. 
+- Tugas 18 - Flexbox. 
+- Tugas 19 - Flexbox.
+- Tugas 20 - Flexbox. 
+- Tugas 21 - Penggunaan Bootstrap (Local dan CDN). 
+- Tugas 22 - Bootstrap Typography. 
+- Tugas 23 - 
+- Tugas 24 -
+- Tugas 25 -
+- Tugas 26 - Bootstrap Images.
+- Tugas 27 - Bootstrap Grid.
+- Tugas 28 -
+- Tugas 29 - Semantic UI.
+- Tugas 30 - Materialize CSS. 
+- Studi Kasus CSS - Halaman Website Study Kasus. 
+- Tugas Akhir CSS
